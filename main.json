@@ -1356,7 +1356,7 @@
         "https://www.google.com/maps/place/Grenadiers+Regimental+Centre/@23.1815685,79.9859891,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipONaWSBVKxi3jZFqoMFFwZNLzRRxbXvM4mk-DuI!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipONaWSBVKxi3jZFqoMFFwZNLzRRxbXvM4mk-DuI%3Dw86-h114-k-no!7i3072!8i4080!4m17!1m9!3m8!1s0x3981af9fe9a72251:0xc3500ad2bcd843a4!2sGrenadiers+Regimental+Centre!8m2!3d23.181467!4d79.9864071!9m1!1b1!16s%2Fg%2F11jsb9jwjg!3m6!1s0x3981af9fe9a72251:0xc3500ad2bcd843a4!8m2!3d23.181467!4d79.9864071!10e5!16s%2Fg%2F11jsb9jwjg?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#"
     ],
     "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.691226927228!2d79.9864071!3d23.181466999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981af9fe9a72251%3A0xc3500ad2bcd843a4!2sGrenadiers%20Regimental%20Centre!5e0!3m2!1sen!2sin!4v1733487565958!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
-}
+},
 
   {
     "agencyName": "Bastar Tribal Art Museum Agency",
@@ -1443,34 +1443,72 @@
   ],
   "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469528.7276516238!2d79.65401143281247!3d23.163148299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981ae0ef6eb5d81%3A0x83afb7f89390b624!2sRani%20Durgavati%20Museum!5e0!3m2!1sen!2sin!4v1733484190943!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
 },
-  {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Rani Mahal Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "Located in the historic Rani Mahal, this museum displays the art, artifacts, and history of the Gwalior region, including royal regalia and ancient sculptures.",
-      "contactNumber": "7743627150",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474008",
-      "imageUrl": [],
-      "iframe": "No iframe available"
+
+{
+    "agencyName": "Salar Jung Museum Agency",
+    "MonumentName": "Salar Jung Museum",
+    "email": "salarjungmuseum@gmail.com",
+    "password": "test@123",
+    "desc": "The Salar Jung Museum, located in Hyderabad, Telangana, is one of India's most renowned museums, celebrated for its vast and eclectic collection of artifacts. Established in 1951, the museum is named after Salar Jung III, the erstwhile Prime Minister of the Hyderabad state, who passionately collected artworks, manuscripts, and antiques from around the world. The museum houses over 40,000 items spanning diverse cultures, regions, and eras, offering a glimpse into the artistic and historical legacy of India and beyond. The exhibits include intricately carved sculptures, miniature paintings, antique clocks, weaponry, textiles, and rare manuscripts. Among its prized possessions is the famous **Veiled Rebecca**, a marble statue that exemplifies exquisite craftsmanship. Another highlight is the impressive collection of clocks in the Clock Gallery, drawing significant attention from visitors. The museum is divided into 38 galleries, each meticulously organized to showcase artifacts from India, Persia, Europe, Japan, and China. Its central dome architecture, sprawling galleries, and serene ambiance make it a cultural haven for art and history enthusiasts. Regularly hosting special exhibitions, seminars, and educational programs, the Salar Jung Museum also plays a vital role in fostering cultural understanding and promoting art appreciation. It stands as a testament to the rich cultural heritage of Hyderabad, offering a remarkable journey through time and space to its visitors.",
+    "contactNumber": "4024576443",
+    "ticketPrice": 50,
+    "MonumentLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJhZ9oyMOhcoSjY1hU15j4KzMRYSPu7X8YIw&s",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500002",
+    "imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg/250px-Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/50382227093c4ae17ef1ab_20220523165700.jpeg"
+    ],
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.082112723985!2d78.46906221487614!3d17.37127068809164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb97392a2ae669%3A0xf2c5b23e24fc1d29!2sSalar%20Jung%20Museum!5e0!3m2!1sen!2sin!4v1733566801234!5m2!1sen!2sin"
   },
+  
+
+{
+    "agencyName": "National Gallery of Modern Art Agency",
+    "MonumentName": "National Gallery of Modern Art",
+    "email": "ngma_delhi@gmail.com",
+    "password": "test@123",
+    "desc": "The National Gallery of Modern Art (NGMA), located in New Delhi, is a premier institution dedicated to the preservation and promotion of modern and contemporary art in India. Established in 1954, the gallery is housed in the historic Jaipur House, a majestic building designed in the Indo-Saracenic architectural style. NGMA serves as a vital cultural hub, offering visitors an opportunity to explore the evolution of Indian art from the mid-19th century to the present day.The museum's extensive collection boasts over 14,000 works of art, representing some of the finest creations by renowned Indian artists such as Rabindranath Tagore, Raja Ravi Varma, Jamini Roy, Amrita Sher-Gil, and others. It also features significant contributions from international artists, reflecting a global perspective. The artworks on display include paintings, sculptures, graphic art, photographs, and installations that capture the diversity and dynamism of India's artistic journey.One of the highlights of NGMA is its chronological presentation of Indian art, allowing visitors to witness the transition from traditional techniques to modern experimentation. The collection encompasses various art movements and styles, ranging from Bengal School's revivalist efforts to contemporary abstract and figurative forms. Through its curated exhibits, NGMA sheds light on the socio-political and cultural contexts that have shaped Indian art over the decades.The gallery also hosts temporary exhibitions, workshops, lectures, and film screenings to engage art enthusiasts and scholars. Its state-of-the-art auditorium and library provide valuable resources for research and education, making NGMA a vital center for cultural exchange and learning.The museum's serene ambiance, enhanced by its beautifully landscaped gardens and sculptures, offers a tranquil environment for reflection and inspiration. Visitors can also enjoy a guided tour to gain deeper insights into the artworks and their significance.A visit to the National Gallery of Modern Art is a journey through India’s artistic legacy, celebrating the creativity, innovation, and resilience of its artists. It is a must-visit destination for art lovers, history buffs, and anyone seeking to connect with India’s rich cultural heritage.",
+    "contactNumber": "01123384640",
+    "ticketPrice": 20,
+    "MonumentLogo": "https://www.nicepng.com/png/detail/376-3767204_national-gallery-of-modern-art-new-delhi-national.png",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110003",
+    "imageUrl": ["https://lh6.googleusercontent.com/TRMl7VFtmOnCmH-ep8qq2fxwG-NzD_JHFEwgKwE-W8vLB_sGe4a7enM-50FhQT5uhUo8RpW8Oha11QqIyyc09qbsIIKFjUKKbxOvkO2w2-4oqCPubA5ZCyl30-m5ssvqjA=w1280","https://lh6.googleusercontent.com/xzhPhpzoqjyDBzXN_a4N-z5mFHCK_GS6oZf1_Hx6WWvIb2oe2FaMfeyGErJc9NNN57QAcGdJCGUKEFwmYABdSdcAOacHcWquV9Fer6HcDjhggWyViEqaVyTPDho_GKdShQ=w1280"
+      
+    ],
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14009.567270295344!2d77.21671938531073!3d28.61573938831796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2c2b6a27e65%3A0xf314aa68f6e7b3a9!2sNational%20Gallery%20of%20Modern%20Art%20New%20Delhi!5e0!3m2!1sen!2sin!4v1733566582925!5m2!1sen!2sin"
+  },
+  
+{
+    "agencyName": "Gwalior Agency",
+    "MonumentName": "Jai Vilas Palace Museum",
+    "email": "gwalior_1733479739@gmail.com",
+    "password": "test@123",
+    "desc": "This museum exhibits archaeological finds, regional artifacts, and local history, particularly from the Guna district.",
+    "contactNumber": "18002337777",
+    "ticketPrice": 100,
+    "MonumentLogo": "https://jaivilaspalace.in/wp-content/uploads/2019/09/jvpbwlogo-1024x683.png",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "imageUrl": ["https://culture360.asef.org/asemus-files/HH-Maharaja-Sir-Jiwajirao-Scindia-Museum-outside-220x146.jpg","https://jaivilaspalace.in/wp-content/uploads/2021/08/h10-986x1024.jpg"],
+    "iframe": "No iframe available"
+},
   {
       "agencyName": "Mandu Agency",
-      "MonumentName": "Mandu Archaeological Museum",
+      "MonumentName": "Archaeological Museum Mandu",
       "email": "mandu_1733479738@gmail.com",
       "password": "test@123",
-      "desc": "A museum dedicated to the history and culture of Mandu, displaying sculptures, coins, and other ancient artifacts.",
+      "desc": "The Archaeological Museum in Mandu ,located in the heart of Madhya Pradesh, India, is a significant institution dedicated to preserving and showcasing the rich historical and cultural heritage of the region. Established in 1980, the museum is situated near the ancient ruins of Mandu, a city steeped in history and known for its stunning architecture and beautiful landscapes. The museum serves as a vital resource for historians, archaeologists, and tourists alike, offering insights into the life and culture of the region from ancient times through the medieval period.The museum houses an extensive collection of artifacts, including sculptures, pottery, inscriptions, and coins that date back to various dynasties, such as the Parmaras, Mughals, and others. Among the highlights of the collection are exquisite stone sculptures depicting Hindu deities, which reflect the artistic prowess of ancient craftsmen. The intricate carvings and details of these sculptures provide a glimpse into the spiritual and artistic life of the time.In addition to sculptures, the museum showcases a variety of archaeological finds, including everyday objects that shed light on the daily lives of the people who once inhabited the region. Items such as terracotta figurines, tools, and pottery illustrate the craftsmanship and cultural practices of past civilizations. The museum's well-curated exhibits help visitors understand the historical context of Mandu and its significance as a center of art and culture.The architecture of the museum itself is noteworthy,designed to harmonize with the historical surroundings. The museum features spacious galleries and informative displays, creating an inviting atmosphere for exploration and learning. Educational programs and guided tours are often organized, enhancing the experience for visitors of all ages.The Archaeological Museum in Mandu is not only a place for preserving artifacts but also serves as a platform for promoting awareness about the region's rich history. It stands as a testament to the enduring legacy of Mandu and is a must-visit destination for anyone interested in exploring the archaeological treasures of central India. The museum plays a crucial role in connecting the past with the present, fostering a deeper appreciation for the region's cultural heritage.",
       "contactNumber": "9016248436",
       "ticketPrice": 100,
       "MonumentLogo": "No logo available",
       "city": "Mandu",
       "state": "Madhya Pradesh",
       "pincode": "454010",
-      "imageUrl": [],
+      "imageUrl": ["https://www.mptourandtravels.com/images/archaeological-mandu.jpg"],
       "iframe": "No iframe available"
   },
   {
@@ -1478,195 +1516,102 @@
       "MonumentName": "Jain Museum Khajuraho",
       "email": "khajuraho_1733479738@gmail.com",
       "password": "test@123",
-      "desc": "This museum exhibits Jain art and culture with sculptures, manuscripts, and ancient scriptures that highlight the teachings of Jainism.",
+      "desc": "The Jain Museum in Khajuraho is a significant cultural institution that showcases the rich heritage and artistic legacy of Jainism in India. Situated within the famous group of temples recognized as a UNESCO World Heritage Site, the museum is dedicated to preserving and promoting the traditions, philosophy, and art of Jain culture. Opened in 1987, the museum serves as an important resource for visitors seeking to understand the historical and spiritual aspects of Jainism, which has deep roots in the region.The museum houses an impressive collection of artifacts, sculptures, manuscripts, and inscriptions that illustrate the development of Jain art and architecture over centuries. Among its most notable exhibits are intricately carved stone sculptures depicting Tirthankaras, the revered spiritual teachers in Jainism. These exquisite works of art highlight the skill and craftsmanship of ancient artisans, showcasing detailed features, postures, and symbols that are essential to Jain iconography.In addition to sculptures, the Jain Museum features a range of historical objects, including ceremonial items, textiles, and metalwork. These artifacts provide insight into the daily lives, rituals, and customs of Jain communities throughout history. The museum's collection is thoughtfully curated, allowing visitors to explore the evolution of Jain art and its significance within the broader context of Indian culture.The museum is designed to create an engaging learning experience for visitors. Informative displays and guides help contextualize the exhibits, making the teachings and principles of Jainism more accessible. The serene ambiance of the museum, combined with its rich collection, offers a peaceful space for reflection and appreciation of Jain philosophy.Visitors to the Jain Museum in Khajuraho can expect not only to learn about the artistic achievements of Jain culture but also to gain a deeper understanding of its ethical teachings, which emphasize non-violence, truth, and asceticism. The museum serves as a vital link between the past and present, highlighting the enduring relevance of Jain values in contemporary society. Overall, the Jain Museum is a must-visit destination for anyone interested in exploring the profound impact of Jainism on Indian art, culture, and spirituality.",
       "contactNumber": "7780672168",
       "ticketPrice": 100,
       "MonumentLogo": "No logo available",
       "city": "Khajuraho",
       "state": "Madhya Pradesh",
       "pincode": "471606",
-      "imageUrl": [],
+      "imageUrl": ["https://www.jainmandir.org/App_Themes/Temple/gallery/JainMuseum-Khajuraho-Chhatarpur-12.JPG","https://www.jainmandir.org/App_Themes/Temple/gallery/Parshvnath-Khajuraho-Chhatarpur-11.JPG"],
       "iframe": "No iframe available"
   },
+  
   {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Gandhi Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "Dedicated to the life and contributions of Mahatma Gandhi, this museum features his personal belongings, letters, and photographs.",
-      "contactNumber": "9706790706",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Bhopal Agency",
-      "MonumentName": "Madhya Pradesh Science Centre",
+      "agencyName": "National Council of Science Museums, Ministry of Culture",
+      "MonumentName": "Regional Science Centre Bhopal",
       "email": "bhopal_1733479738@gmail.com",
       "password": "test@123",
-      "desc": "A museum focusing on science and technology, offering interactive exhibits related to space, physics, and innovations in science.",
-      "contactNumber": "9152646820",
+      "desc": "The Regional Science Centre in Bhopal is a premier educational institution dedicated to promoting science and technology through interactive exhibits and innovative learning experiences. Established in 1997, the center aims to inspire curiosity and foster a love for science among visitors of all ages. It is part of the National Council of Science Museums, which operates several similar centers across India.The architecture of the Regional Science Centre is striking, featuring modern design elements that create an inviting atmosphere for exploration. The center spans over several acres and includes numerous galleries and outdoor exhibits, all designed to engage visitors with hands-on activities and demonstrations. The exhibits cover a wide range of scientific disciplines, including physics, biology, chemistry, and environmental science, making complex concepts accessible and enjoyable.One of the highlights of the center is its interactive exhibits, which encourage visitors to participate in experiments and learn through experience. The center features a variety of models and displays that illustrate scientific principles in a fun and engaging manner. For example, visitors can explore topics such as robotics, renewable energy, and astronomy through engaging installations that allow for experimentation and discovery.The Regional Science Centre also houses a state-of-the-art planetarium, which hosts regular shows that educate audiences about astronomy and the universe. The planetarium’s digital projection system creates immersive experiences, taking visitors on journeys through the stars and planets, enhancing their understanding of celestial phenomena.In addition to its exhibits, the center organizes various educational programs, workshops, and science fairs throughout the year, encouraging schools and families to participate. These initiatives aim to ignite interest in science and technology, fostering critical thinking and problem-solving skills among young learners.The Regional Science Centre in Bhopal is not just a museum but a vibrant hub of science education and community engagement. It serves as a platform for scientific exploration, making it a valuable resource for students, educators, and anyone interested in the wonders of science. By providing an interactive learning environment, the center plays a crucial role in shaping the future of science education in the region.",
+      "contactNumber": "9479974419",
       "ticketPrice": 100,
       "MonumentLogo": "No logo available",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
-      "pincode": "462003",
-      "imageUrl": [],
+      "pincode": "462002",
+      "imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RSCB_Main.jpg/250px-RSCB_Main.jpg","https://rscbhopal.gov.in/wp-content/uploads/2023/09/RSCB_Building.jpg"],
       "iframe": "No iframe available"
   },
+  
   {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Janki Mandir Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "This museum located in a historic temple showcases religious artifacts and displays related to the worship of Goddess Janki.",
-      "contactNumber": "8702266377",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474008",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+    "agencyName": "Directorate of Archaeology, Archives and Museums,Govt. of M. P.",
+    "MonumentName": "Rajwada Palace Museum",
+    "email": "indore_1733479739@gmail.com",
+    "password": "test@123",
+    "desc": "The Rajwada Palace Museum, located in Indore, Madhya Pradesh, is a stunning historical site that embodies the grandeur and opulence of the Holkar dynasty. Built in the 19th century, the palace served as the residence of the Holkar rulers and is a remarkable example of Indo-Saracenic architecture, characterized by its intricate design and striking features. Today, the palace has been converted into a museum, offering visitors a glimpse into the royal heritage and lifestyle of the era.The museum's architecture is a blend of various styles, showcasing ornate pillars, spacious courtyards, and beautifully decorated rooms. The façade features exquisite carvings and vibrant frescoes, which reflect the artistic sensibilities of the time. Visitors are often captivated by the grandeur of the palace, which is adorned with intricate details that tell stories of its illustrious past.Inside the Rajwada Palace Museum, visitors can explore a rich collection of artifacts, including royal attire, weapons, furniture, and personal belongings of the Holkar rulers. These exhibits provide insight into the daily lives, customs, and traditions of the royal family. The museum also features an impressive array of photographs and documents that chronicle the history of the Holkar dynasty, highlighting significant events and personalities associated with the region.One of the key attractions of the museum is the display of traditional musical instruments and artistic works, showcasing the cultural richness of Indore. The museum frequently organizes exhibitions and cultural programs, allowing visitors to experience the vibrant heritage of the region.The surrounding gardens of the Rajwada Palace enhance the serene atmosphere of the museum, providing a peaceful retreat for visitors to relax and reflect on the royal history. The museum is not only a celebration of the Holkar dynasty's legacy but also serves as a vital cultural center, preserving and promoting the artistic and historical heritage of Indore.The Rajwada Palace Museum stands as a testament to the grandeur of a bygone era and remains a must-visit destination for history enthusiasts and anyone interested in the rich cultural tapestry of Madhya Pradesh.",
+    "contactNumber": "8255004886",
+    "ticketPrice": 100,
+    "MonumentLogo": "No logo available",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452007",
+    "imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indore_Rajwada01.jpg/250px-Indore_Rajwada01.jpg", "https://dr7f10k1l6bnm.cloudfront.net/wp-content/uploads/2024/04/rajwada.jpg"],
+    "iframe": "No iframe available"
+},
+
+  
   {
-      "agencyName": "Jabalpur Agency",
-      "MonumentName": "Mahakoshal Art Gallery",
-      "email": "jabalpur_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "An art gallery and museum that showcases the rich cultural and artistic heritage of the Mahakoshal region of Madhya Pradesh.",
-      "contactNumber": "8141953283",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Jabalpur",
-      "state": "Madhya Pradesh",
-      "pincode": "482001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Indore Agency",
-      "MonumentName": "Bhil Museum",
+      "agencyName": "Directorate of Archaeology, Archives and Museums,Govt. of M. P.",
+      "MonumentName": "central Museum,Indore",
       "email": "indore_1733479739@gmail.com",
       "password": "test@123",
-      "desc": "This museum is dedicated to the Bhil tribal community of Madhya Pradesh and showcases their art, culture, and traditional way of life.",
-      "contactNumber": "9202705728",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Indore",
-      "state": "Madhya Pradesh",
-      "pincode": "452001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Guna Agency",
-      "MonumentName": "Guna Museum",
-      "email": "guna_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "This museum exhibits archaeological finds, regional artifacts, and local history, particularly from the Guna district.",
-      "contactNumber": "8952403468",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Guna",
-      "state": "Madhya Pradesh",
-      "pincode": "473001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Indore Agency",
-      "MonumentName": "Indore Heritage Museum",
-      "email": "indore_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "A museum displaying the rich heritage of Indore, showcasing regional artifacts, textiles, and ancient sculptures from Indore's history.",
+      "desc": "The Central Museum, also known as the Indore Museum, is one of the oldest museums in Madhya Pradesh and a treasure trove of the region’s rich cultural and historical heritage. Located in the heart of Indore, the museum dates back to 1929 and showcases an extensive collection of artifacts, sculptures, coins, and inscriptions, offering a comprehensive glimpse into the history and traditions of the Malwa region and beyond.The museum’s collection is divided into two main galleries. The first gallery houses prehistoric artifacts, including tools, ornaments, and pottery that trace human settlement in the region back thousands of years. These exhibits highlight the ingenuity and craftsmanship of ancient communities and provide insights into their way of life. The second gallery is dedicated to sculptures and relics from various periods, ranging from the Gupta and Parmar dynasties to the Maratha rule, showcasing the region’s artistic and cultural evolution.One of the key attractions of the Central Museum is its impressive collection of Parmar-style sculptures from the 11th and 12th centuries. These intricately carved stone sculptures, depicting Hindu deities, mythological scenes, and celestial beings, are celebrated for their exceptional craftsmanship and attention to detail. The museum also houses Jain artifacts and inscriptions that underline the religious diversity and tolerance of the region throughout history.The numismatic collection at the museum is another highlight, featuring coins from ancient, medieval, and modern India. These coins not only reflect the economic history of the region but also serve as an artistic record of its rulers and empires.The museum's architecture complements its collection, with its colonial-style building offering a tranquil environment for visitors to explore the exhibits. The well-maintained grounds and quiet surroundings make it a popular destination for history enthusiasts and families alike.The Central Museum in Indore serves as a vital institution for preserving and celebrating the rich heritage of Madhya Pradesh. Its diverse and fascinating collection offers a journey through time, making it a must-visit destination for anyone interested in exploring the history and culture of central India.",
       "contactNumber": "8255004886",
       "ticketPrice": 100,
       "MonumentLogo": "No logo available",
       "city": "Indore",
       "state": "Madhya Pradesh",
       "pincode": "452001",
-      "imageUrl": [],
+      "imageUrl": ["https://www.trawell.in/admin/images/thumbs/183831995Lalbagh_thumb.jpg", "https://archaeology.mp.gov.in/portals/0/1-1.png"],
       "iframe": "No iframe available"
   },
-  {
-      "agencyName": "Sagar Agency",
-      "MonumentName": "Sagar Museum",
-      "email": "sagar_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "This museum exhibits historical artifacts, sculptures, and ancient manuscripts related to the cultural heritage of the Sagar region.",
-      "contactNumber": "9040237008",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Sagar",
-      "state": "Madhya Pradesh",
-      "pincode": "470001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Khandwa Agency",
-      "MonumentName": "Khandwa Museum",
-      "email": "khandwa_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "A museum showcasing the cultural, historical, and archaeological heritage of the Khandwa region, featuring artifacts and sculptures from ancient times.",
-      "contactNumber": "9366376039",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Khandwa",
-      "state": "Madhya Pradesh",
-      "pincode": "450001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Shivpuri Agency",
-      "MonumentName": "Madhav National Park Museum",
-      "email": "shivpuri_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "Located inside Madhav National Park, this museum displays the flora and fauna of the park, alongside educational exhibits on wildlife conservation.",
-      "contactNumber": "7448383295",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Shivpuri",
-      "state": "Madhya Pradesh",
-      "pincode": "473551",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Bhopal Agency",
-      "MonumentName": "Madhya Pradesh Tribal Art Museum",
-      "email": "bhopal_1733479739@gmail.com",
-      "password": "test@123",
-      "desc": "This museum highlights the traditional art and crafts of the tribal communities of Madhya Pradesh, showcasing their handloom, pottery, and sculpture.",
-      "contactNumber": "7047571855",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Bhopal",
-      "state": "Madhya Pradesh",
-      "pincode": "462003",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+  
+  
+  
+  
   {
       "agencyName": "Bhopal Agency",
       "MonumentName": "Bihar Museum",
       "email": "bhopal_1733479739@gmail.com",
       "password": "test@123",
-      "desc": "Dedicated to the history, culture, and heritage of Bihar, the museum showcases artifacts from ancient to modern times, including sculptures and paintings.",
+      "desc": "The Bihar Museum is a modern cultural and historical institution that showcases the rich heritage of Bihar, a state steeped in history and tradition. Opened to the public in 2015, the museum is designed to provide a comprehensive view of Bihar’s history, art, and culture while offering an engaging and interactive experience for visitors of all ages.The museum’s architecture is a blend of contemporary design and traditional elements, symbolizing the fusion of Bihar's past and present. Sprawling across 13.5 acres, the museum is divided into multiple galleries and sections, each focusing on different aspects of the state’s history and culture. Its collection spans from ancient artifacts to modern art, highlighting Bihar's importance as a cradle of civilization.One of the museum's major attractions is its History Gallery, which houses artifacts dating back to the Mauryan and Gupta empires, showcasing Bihar’s role as a center of power and learning in ancient India. The Art Gallery displays an impressive collection of sculptures, paintings, and terracotta artifacts, reflecting the artistic excellence of Bihar through the ages. The Children’s Gallery is an innovative section designed to engage young minds with hands-on exhibits, interactive displays, and educational activities. This makes the Bihar Museum not only a repository of knowledge but also a vibrant space for learning and exploration.Another highlight is the **Buddhist Heritage Gallery**, which delves into the life and teachings of Gautama Buddha and Bihar’s role as the birthplace of Buddhism. The gallery includes relics, sculptures, and interactive displays that bring this significant heritage to life.The museum also emphasizes modern presentation techniques, including multimedia exhibits and digital installations, to enhance visitor engagement. Its lush green surroundings, thoughtfully designed spaces, and regular events like workshops, film screenings, and lectures further enrich the cultural experience.The Bihar Museum is more than just a museum; it is a celebration of Bihar's glorious past and a bridge to its evolving cultural identity, making it a must-visit destination for history enthusiasts and culture seekers alike.",
       "contactNumber": "8812991580",
       "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
+      "MonumentLogo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Bihar_Museum.svg/revision/latest?cb=20210906193943",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
       "pincode": "462003",
-      "imageUrl": [],
+      "imageUrl": ["https://www.biharmuseum.org/static/e67e056a1d9a4fdc5a9cb08642fe09e9/32d68/building_8d4b07c592.webp",
+    "https://media2.thrillophilia.com/images/photos/000/364/865/original/1610545393_43955723280_e72f2cc6f9_b_20190116141518.jpg?width=975&height=600"],
       "iframe": "No iframe available"
-  }
-  ]
+  },
+
+
+  {
+    "agencyName": "Bhopal Agency",
+    "MonumentName": "Madhya Pradesh Tribal Art Museum",
+    "email": "bhopal_1733479739@gmail.com",
+    "password": "test@123",
+    "desc": "The Madhya Pradesh Tribal Art Museum, located in Bhopal, is a unique institution dedicated to celebrating the rich cultural heritage of tribal communities in Madhya Pradesh. Opened in 2013, the museum offers an immersive experience that highlights the art, traditions, and lifestyles of various tribal groups, showcasing their deep connection with nature and their creative expressions. It stands as a vibrant tribute to the diverse tribal cultures that form an integral part of the state’s identity.The museum is renowned for its distinctive approach to curation, which moves away from conventional display methods. Instead of glass cases and labels, it features life-sized installations and artistic representations that breathe life into tribal narratives. Visitors can explore intricately designed exhibits that depict tribal myths, rituals, festivals, and daily life, offering a glimpse into the spiritual and cultural world of these communities. The exhibits are enriched by the use of vibrant colors, traditional patterns, and materials that resonate with the tribes’ environment.One of the museum’s most captivating sections is the Tribal Lifestyle Gallery, which showcases the architecture, tools, and artifacts used in tribal households. The Tribal Art Gallery, on the other hand, features stunning paintings, sculptures, and craftwork created by skilled tribal artists. These works reflect the tribes’ close bond with nature, their oral traditions, and their unique worldviews. Each piece tells a story, preserving the heritage that has been passed down through generations.The open-air exhibits and lush green surroundings add to the museum's charm, creating a serene environment for visitors to reflect on the richness of tribal culture. Regular workshops, performances, and art demonstrations allow visitors to interact directly with tribal artists, fostering a deeper appreciation for their skills and traditions.The Madhya Pradesh Tribal Art Museum is not just a repository of artifacts but a living center of cultural exchange. It plays a vital role in preserving tribal heritage while promoting understanding and respect for these ancient yet evolving cultures. The museum is a must-visit for those interested in exploring the diversity and beauty of India’s tribal traditions.",
+    "contactNumber": "7047571855",
+    "ticketPrice": 100,
+    "MonumentLogo": "https://yt3.googleusercontent.com/r-oSQr7SasuB4Ts6ALyrSd0-J3mOxkp9tROE8WRX3seSBqqmfC6qe0XxmqK9PLTOS30uEiTn=s900-c-k-c0x00ffffff-no-rj",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "pincode": "462003",
+    "imageUrl": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tribal_Museum_Bhopal_3.jpg/220px-Tribal_Museum_Bhopal_3.jpg","https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/d340ec50-cf81-4b3c-8bfb-12469b0abeb4-tribal-inline-01-michaelturtle.jpg?q=75"],
+    "iframe": "No iframe available"
+}
+
+]
   
